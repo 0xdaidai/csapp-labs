@@ -1,0 +1,1 @@
+./mdriver -V -t ./traces 
